@@ -1,6 +1,4 @@
-Perfeito, Victor! Aqui está a versão completa do **README.md em inglês** já adaptada:
 
-```markdown
 # Hi there, I'm Victor Moyses Nascimento!
 
 ---
