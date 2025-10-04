@@ -1,16 +1,24 @@
-## Hi there 👋
+Perfeito, Victor! Aqui está a versão completa do **README.md em inglês** já adaptada:
 
-<!--
-**vicmoyses2/vicmoyses2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```markdown
+# Hi there, I'm Victor Moyses Nascimento!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+I hold a degree in **Electrical Engineering** and I am currently expanding my knowledge in **Blockchain and Web3**, exploring decentralized technologies and their applications.  
+I’m passionate about innovation, programming, and the impact technology can have on shaping future societies and economies.  
+
+---
+
+## Life beyond technology
+The discipline and resilience I apply to my studies are also present in sports:  
+- **Olympic Rowing**  
+- **Road Cycling**  
+- **CrossFit**  
+
+These activities strengthen my focus, balance, and persistence.  
+
+---
+Always open to learning, sharing experiences, and collaborating on projects that combine **engineering, technology, and human performance**.
+```
