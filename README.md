@@ -4,7 +4,7 @@
 ---
 
 ## About Me
-I hold a degree in **Electrical Engineering** and I am currently expanding my knowledge in **Blockchain and Web3**, exploring decentralized technologies and their applications.  
+I hold a degree in **Electrical Engineering** and I'm currently expanding my knowledge in **Blockchain and Web3**, exploring decentralized technologies and their applications.  
 I’m passionate about innovation, programming, and the impact technology can have on shaping future societies and economies.  
 
 ---
