@@ -59,6 +59,25 @@ A decentralized crowdfunding contract built with Solidity and deployed on **ZKSy
 
 ---
 
+### [`KipuBank.sol`](https://sepolia.etherscan.io/address/0x3cba6a390232d04ccc0ea8dc44208da7c610b60e#code)
+A decentralized banking contract designed for controlled ETH deposits and withdrawals, deployed and verified on **Sepolia Testnet**.
+
+- 🏦 Simulates a **decentralized bank** with per-user balances  
+- 💰 Enforces **global capacity limit** (`i_bankCapacity`) and **max withdrawal per transaction** (`i_maxWithdrawPerTx`)  
+- 🧱 Includes **nonReentrant guard** and explicit **revert reasons**  
+- 🔐 Prevents direct transfers (`receive` / `fallback`) for extra safety  
+- ✅ **Verified on-chain** via Etherscan  
+
+📍 **Network:** Ethereum Sepolia Testnet  
+📜 **Address:** `0x3cBA6A390232D04CCc0EA8dC44208dA7C610b60E`  
+👥 **Developed by:** [Victor Moyses Nascimento](https://github.com/victormoyses) & [Bruno Pancotto](https://github.com/pancotto)  
+🧠 **Project:** ETH-KIPU Blockchain Learning Initiative  
+
+---
+
+
+
+
 ## 🧩 Life Beyond Technology
 
 The same discipline that drives my work extends to my athletic pursuits:  
