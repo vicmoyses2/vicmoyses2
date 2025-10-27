@@ -74,8 +74,20 @@ Sports have taught me **resilience, consistency, and balance** — values that I
 
 I’m always open to learning, sharing experiences, and collaborating on projects that unite **engineering, blockchain, and human performance**.
 
-📫 **GitHub:** [@vicmoyses2](https://github.com/vicmoyses2)  
-🌍 **Cyfrin Profile:** [vicmoyses](https://profiles.cyfrin.io/u/vicmoyses)  
+<p align="center">
+  <a href="https://github.com/vicmoyses2" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+  <a href="https://profiles.cyfrin.io/u/vicmoyses" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/Cyfrin-7E3ACE?style=for-the-badge&logo=cyfrin&logoColor=white" alt="Cyfrin Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/vicmoyses/" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.instagram.com/vicmoyses/" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+</p>
 
 ---
 
